@@ -1,1 +1,1 @@
-## Goggel Gemini 2.0
+## Google Gemini Clone
